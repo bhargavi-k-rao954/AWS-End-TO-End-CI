@@ -4,3 +4,5 @@ AWS Continuous Integration Real Time Project
 ## Installation on EC2 Instance
 
 Bloack Diagram -->
+
+(1.png)
