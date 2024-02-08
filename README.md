@@ -5,4 +5,4 @@ AWS Continuous Integration Real Time Project
 
 Bloack Diagram -->
 
-(1.png)
+![Block diagram of AWS End TO End CI] (https://github.com/bhargavi-k-rao954/AWS-End-TO-End-CI/blob/main/1.png)
