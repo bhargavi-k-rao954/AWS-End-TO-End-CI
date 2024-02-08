@@ -11,3 +11,6 @@ In this step, we'll configure AWS CodeBuild to build our Python application base
 - Specify the build commands, such as installing dependencies and running tests. Customize this based on your application's requirements.
 - Set up the artifacts configuration to generate the build output required for deployment.
 - Review the build project settings and click on the "Create build project" button to create your AWS CodeBuild project.
+
+  ![codebuild_creation](https://github.com/bhargavi-k-rao954/AWS-End-TO-End-CI/assets/155810773/f0d5640a-fee8-4162-afe9-e5e65db58ec2)
+
